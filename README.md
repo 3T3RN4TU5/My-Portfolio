@@ -2,7 +2,7 @@
 
 A static portfolio page: profile, skills, projects and contact, in plain HTML and CSS.
 
-**Live:** https://jeevan2410.github.io/My-Portfolio/
+**Live:** https://3t3rn4tu5.github.io/My-Portfolio/
 
 ![Portfolio hero with an avatar, Download CV and Contact Info buttons](docs/screenshot.jpg)
 
